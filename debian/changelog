@@ -1,3 +1,11 @@
+base-files (5.0.1genesi2) maverick; urgency=low
+
+  * Legally differentiate us from *being* Ubuntu by stating derivation
+  * Add an origins/genesi file
+  * Change source format to 3.0 (native)
+
+ -- Matt Sealey <matt@genesi-usa.com>  Tue, 18 Mar 2013 12:24:18 -0600
+
 base-files (5.0.1genesi1) maverick; urgency=low
 
   * Don't reference Ubuntu help website or announce the distribution name/version

@@ -1,8 +1,7 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-XSBC-Original-Maintainer: Santiago Vila <sanvila@debian.org>
+Maintainer: Matt Sealey <matt@genesi-usa.com>
 Standards-Version: 3.7.2
 
 Package: base-files

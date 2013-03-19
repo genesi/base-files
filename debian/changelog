@@ -1,3 +1,9 @@
+base-files (5.0.1genesi1) maverick; urgency=low
+
+  * Don't reference Ubuntu help website or announce the distribution name/version
+
+ -- Matt Sealey <matt@genesi-usa.com>  Tue, 18 Mar 2013 12:02:21 -0600
+
 base-files (5.0.0ubuntu23) maverick; urgency=low
 
   * Prepare for Maverick release: etc/{lsb-release,issue,issue.net}.
